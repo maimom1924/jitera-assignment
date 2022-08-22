@@ -1,0 +1,12 @@
+{
+  "name": "Chhay Lyheng",
+  "gender": "F",
+  "dob": "1995-09-08",
+  "address": "Kep",
+  "city": "Phnom Penh",
+  "state": "Cambodia",
+  "pin": "123456",
+  "mobile_number": "0123654789",
+  "email": "test@gmail.com",
+  "password": "password123"
+}
