@@ -15,7 +15,7 @@ before(function () {
     })
 })
 
-Given("User am on the login screen", function (){
+Given("User on the login screen", function (){
     login.navigate()
 })
 
