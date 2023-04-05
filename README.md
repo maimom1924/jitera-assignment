@@ -1,5 +1,3 @@
-# jitera-assignment
-
 ## You can run this project using the following steps:
 
 1. Clone this project to your local computer
